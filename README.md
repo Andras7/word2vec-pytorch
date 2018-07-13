@@ -12,6 +12,7 @@ Fast word2vec implementation at competitive speed with fasttext. The slowest par
 ## Supprted features
 
 * Skip-gram
-* Negative Sampling
 * Batch update
+* Cosine Annealing
+* Negative Sampling
 * Sub-sampling of frequent word
