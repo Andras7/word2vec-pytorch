@@ -5,9 +5,9 @@ Fast word2vec implementation at competitive speed with fasttext. The slowest par
 ## Advantages
 
 * Easy to understand, solid code
-* Easy to extend, to make new experiments
+* Easy to extend for new experiments
 * You can try advanced learning optimizers, with new learning technics
-* GPU spupprot
+* GPU support
 
 ## Supprted features
 
