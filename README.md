@@ -1,6 +1,6 @@
 # Word2vec Pytorch
 
-Fast word2vec implementation at competitive speed with fasttext. The slowest part is the python data loader. Indeed, Python isn't the fastest language but maybe you can improve it :)
+Fast word2vec implementation at competitive speed with fasttext. The slowest part is the python data loader. Indeed, Python isn't the fastest programming language, maybe you can improve the code :)
 
 ## Advantages
 
@@ -9,7 +9,7 @@ Fast word2vec implementation at competitive speed with fasttext. The slowest par
 * You can try advanced learning optimizers, with new learning technics
 * GPU support
 
-## Supprted features
+## Supported features
 
 * Skip-gram
 * Batch update
