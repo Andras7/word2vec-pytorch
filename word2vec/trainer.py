@@ -3,8 +3,8 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 
-from data_reader import DataReader, Word2vecDataset
-from model import SkipGramModel
+from word2vec.data_reader import DataReader, Word2vecDataset
+from word2vec.model import SkipGramModel
 
 
 class Word2VecTrainer:
